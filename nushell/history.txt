@@ -51,3 +51,14 @@ la
 nvim .gitignore
 la
 nvim .gitignore
+git restore history.txt
+git status
+la
+cd
+git add .
+zi .con
+git add .
+git status
+cd nushell
+rm .gitignore
+cd ..
