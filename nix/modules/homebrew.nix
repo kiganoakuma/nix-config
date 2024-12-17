@@ -8,7 +8,6 @@
       "tmux"
       "powerlevel10k"
       "fzf"
-      "zoxide"
       "ripgrep"
       "ast-grep"
       "bat"
@@ -18,6 +17,7 @@
       "gh"
       "nmap"
       "pandoc"
+      "nushell"
     ];
     casks = [
       "wezterm"

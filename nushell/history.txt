@@ -1,0 +1,41 @@
+nvim 
+clear
+zoxide init nushell | save -f ~/.config/nushell/zoxide.nu
+clear
+za
+clear
+nvim
+zi
+clear
+nvim
+clear
+cd
+zi
+nvim 
+zi
+nvim
+clear
+nvim config.nu
+source config.nu
+clear
+nvim config.nu
+clear
+source config.nu
+clear
+cd ..
+git add .
+cd tmux
+ls
+cd plugins
+ls
+cd catppuccin-tmux/
+ls
+la
+rm -rf .git
+cd
+cd .config
+cd tmux/plugins/catppuccin-tmux/
+clear
+cd .config
+zi
+clear
