@@ -39,3 +39,15 @@ clear
 cd .config
 zi
 clear
+git add .
+git commit -m "nushell config init"
+clear
+zi nushell
+nvim
+git add .
+git status
+nvim
+la
+nvim .gitignore
+la
+nvim .gitignore
